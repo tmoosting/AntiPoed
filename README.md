@@ -4,12 +4,12 @@ A poem generator that is inspired thorugh contrariness to real poets, through Na
 ### Little Antipoed Poetry Collection
 [Link](https://drive.google.com/file/d/17iiM_0IC-GMUYe-KTO4qpaVnAEw5XC6u/view?usp=sharing) 
 
-## System Requirements
+### System Requirements
 * python 3.6
 * to run the notebook: jupyter
 
 
-## Running the application
+### Running the application
 
 Make sure you have all the files above & that your working directory is set where the above files are. 
 If it's the first time you're running the application, make sure that it's called with `load_inspiring_set == True`. 
