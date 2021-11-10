@@ -8,11 +8,6 @@ A poem generator that is inspired thorugh contrariness to real poets, through Na
 * python 3.6
 * to run the notebook: jupyter
 
-## File contents
-* PoemGenerator.ipynb (contains the logbook and AntiPoed class)
-* Little AntiPoed Poetry Collection: poetry book with 4 examples
-* wordweb.png in /pics folder: Network graph for title page of the collection
-
 
 ## Running the application
 
