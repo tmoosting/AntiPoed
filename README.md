@@ -1,5 +1,8 @@
 # AntiPoed 
+A poem generator that mirror-antagonizes the works of real poets through Natural Language Processing
 
+### Little Antipoed Poetry Collection
+[Link](https://drive.google.com/file/d/17iiM_0IC-GMUYe-KTO4qpaVnAEw5XC6u/view?usp=sharing) 
 
 ## System Requirements
 * python 3.6
