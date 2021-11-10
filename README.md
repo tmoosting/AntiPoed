@@ -3,7 +3,8 @@
 </sub>
 
 
-A poem generator that is inspired thorugh contrariness to real poets, through Natural Language Processing
+A poem generator that finds inspiration through its contrariness to real poets, through Natural Language Processing
+
 
 ### Little Antipoed Poetry Collection
 [Link](https://drive.google.com/file/d/17iiM_0IC-GMUYe-KTO4qpaVnAEw5XC6u/view?usp=sharing) 
