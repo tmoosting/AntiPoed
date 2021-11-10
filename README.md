@@ -1,6 +1,6 @@
 # AntiPoed 
-Based on an assignment for Masters course: [Computational Creativity](https://studiegids.universiteitleiden.nl/courses/103312/computational-creativity) at Leiden University
-
+<sub>Based on an assignment for Masters course: [Computational Creativity](https://studiegids.universiteitleiden.nl/courses/103312/computational-creativity) at Leiden University
+</sub>
 A poem generator that is inspired thorugh contrariness to real poets, through Natural Language Processing
 
 ### Little Antipoed Poetry Collection
